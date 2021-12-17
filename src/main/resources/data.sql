@@ -1,0 +1,1 @@
+INSERT INTO cadena (id, input, output, repeats) VALUES (1, prueba, prueabu, 1);
