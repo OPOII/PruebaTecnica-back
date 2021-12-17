@@ -12,6 +12,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/cadena")
+@CrossOrigin
 public class CadenaController {
     @Autowired
     private CadenaService service;
